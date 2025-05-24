@@ -15,7 +15,7 @@ This project demonstrates a **real-world implementation of a modern data lakehou
 
 ## 📊 Architecture Diagram
 
-![Azure Lakehouse Architecture]("C:\Users\karun\OneDrive\Pictures\Screenshots\Screenshot 2025-05-25 015205.png")
+![Azure Lakehouse Architecture](./Images/architecture.png)
 
 ---
 
@@ -43,17 +43,17 @@ This project demonstrates a **real-world implementation of a modern data lakehou
 ## 🧩 Screenshots
 
 ### 🔸 Azure Data Factory Pipeline
-![ADF Pipeline](./images/adf-pipeline.png)
+![ADF Pipeline](./Images/adf-pipeline.png)
 
 ---
 
 ### 🔸 Databricks Transformation Notebook (PySpark)
-![Databricks Notebook](./images/databricks-notebook.png)
+![Databricks Notebook](./Images/databricks-notebook.png)
 
 ---
 
 ### 🔸 Power BI Dashboard Output
-![Power BI Dashboard](./images/powerbi-dashboard.png)
+![Power BI Dashboard](./Images/powerbi-dashboard.png)
 
 
 ---
@@ -66,5 +66,4 @@ azure-data-pipeline-project/
 ├── databricks-notebooks/        # PySpark notebooks
 ├── synapse-scripts/             # External table + Openrowset scripts
 ├── images/                      # Architecture + screenshots
-├── scripts/                     # Any helper scripts or batch jobs
 └── README.md
